@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Attendance.Controllers.AttendanceController",
+    "Method": "GetWorkingTime",
+    "RelativePath": "api/Attendance/{employeeId}/working-time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Attendance.Controllers.AttendanceController",
+    "Method": "GetAllEmployeeAttendances",
+    "RelativePath": "api/Attendance/attendance/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:models\\attendances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\data\\attendancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:data\\attendancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\migrations\\20241023092040_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:migrations\\20241023092040_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\models\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:models\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|c:\\users\\quocb\\onedrive\\desktop\\netcore\\attendance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FB048-E952-43F7-A6C1-00F626949899}|Attendance.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwE8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:51:32.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:43:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:42:36.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attendances.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Models\\Attendances.cs",
+              "RelativeDocumentMoniker": "Models\\Attendances.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Models\\Attendances.cs",
+              "RelativeToolTip": "Models\\Attendances.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:44:11.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Data\\AttendanceDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AttendanceDbContext.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Data\\AttendanceDbContext.cs",
+              "RelativeToolTip": "Data\\AttendanceDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:42:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Outlet.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Models\\Outlet.cs",
+              "RelativeDocumentMoniker": "Models\\Outlet.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Models\\Outlet.cs",
+              "RelativeToolTip": "Models\\Outlet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:44:01.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241023092040_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Migrations\\20241023092040_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241023092040_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\quocb\\OneDrive\\Desktop\\NetCore\\Attendance\\Migrations\\20241023092040_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241023092040_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:20:40.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

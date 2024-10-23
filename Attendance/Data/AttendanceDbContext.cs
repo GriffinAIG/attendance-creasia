@@ -12,14 +12,15 @@ namespace Attendance.Data
         public DbSet<Outlet> Outlets { get; set; }
         public DbSet<Attendances> Attendances { get; set; }
 
-        public async Task<int> CalWorkingTimeAsync(int employeeId)
+        public async Task<int> CalWorkingTimeAsync(int employeeId, DateTime attendanceDate)
         {
             // Gọi Stored Procedure và truyền tham số EmployeeId
-            var totalTimeWorked = new SqlParameter("@EmployeeId", employeeId);
+            var employeeIdParam = new SqlParameter("@inEmployeeId @inAttendanceDate", employeeId);
+            var attendanceDateParam = new SqlParameter("inAttendanceDate", attendanceDate);
 
             // Lệnh SQL để gọi stored procedure
             var result = await this.Database.ExecuteSqlRawAsync(
-                "EXEC CalWorkingTime @EmployeeId", totalTimeWorked);
+                "EXEC CalWorkingTime @inEmployeeId @inAttendanceDate", employeeIdParam, attendanceDateParam);
 
             return result;
         }
